@@ -6,7 +6,7 @@ import Footer from '../components/common/Footer';
 const About = () => (
   <Root>
     <Head>
-      <title>About | commerce</title>
+      <title>About | Tronixx</title>
     </Head>
     <div className="about-container">
       {/* Row */}
@@ -88,7 +88,7 @@ const About = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Clone in GitHub
+                
               </a>
             </div>
           </div>
